@@ -1,5 +1,5 @@
 # SimpleEngine
-A simple game engine in processing that allows the user to create custom objects. Built with the intention of exercising the SOLID principles of OOP. Sparked by reading Clean Architecture by Robert C. Martin.
+A simple game engine in processing that allows the user to create custom objects. Built with the intention of exercising the SOLID principles of OOP. Sparked by reading Clean Architecture by Robert C. Martin. Created for my software club code jam.
 
 ### Usage
 
