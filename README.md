@@ -5,7 +5,7 @@ A simple game engine in processing that allows the user to create custom objects
 
 Run Main to load game.
 
-Created Custom Levels, GameObjects, UIObjects in the "CreatedX" files. Custom classes are already there which can be used as guide for the various objects.
+Create Custom Levels, GameObjects, UIObjects in the "CreatedX" files. Custom classes are already there which can be used as guide for the various objects.
 
 ### Basic Overview of Components
 
