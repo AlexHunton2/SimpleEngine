@@ -9,7 +9,7 @@ Create Custom Levels, GameObjects, UIObjects in the "CreatedX" files. Custom cla
 
 ### Basic Overview of Components
 
-PictureSelector selects Pictures in Main -> Pictures are either Level or Menu -> Levels are composed of GameObjects and UIObjects, Menus are only UIObjects -> Custom levels derive from BasicLevel -> Create GameObjects and UIObjects within Level class. Use Hooks to have them interact with the user. Use the class itself to have them interface with eachother.
+PictureSelector selects Pictures in Main -> Pictures are either Level or Menu -> Levels are composed of GameObjects and UIObjects, Menus are only UIObjects -> Custom levels derive from BasicLevel -> Add GameObjects and UIObjects within Level class. Use Hooks to have them interact with the user. Use the class itself to have them interface with eachother.
 
 IN GENERAL: MAIN -> PICTURE -> LEVELS & MENUS (HOOKS) -> GAMEOBJECTS & UIOBJECTS (HOOKS/ENTITIES)
 
